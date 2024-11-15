@@ -1,1 +1,3 @@
-console.log('works');
+export const index = () => {
+	console.log('works');
+};
